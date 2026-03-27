@@ -10,7 +10,7 @@ To implement Stop and Wait protocol using NS2 program.
 
 ## ALGORITHM
 
-Step 1: Start the program.
+Step 1: Start the program
 
 Step 2: Declare the global variables ns for creating a new simulator. Step 3: Open the network animator file in the write mode.
 
